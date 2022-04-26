@@ -1,0 +1,14 @@
+{
+    "blocks": [
+        {
+            "text": {
+                "text": "My Message",
+                "type": "mrkdwn"
+            },
+            "type": "section"
+        }
+    ],
+    "channel": "#my-channel",
+    "icon_emoji": ":robot_face:",
+    "username": "my-bot"
+}
